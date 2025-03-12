@@ -53,8 +53,6 @@ On-prem router
 DMZ traffic to WAN Public IP of Azure
 ![image](https://github.com/user-attachments/assets/74f28368-31f9-4dab-b39a-82353b738352)
 ![image](https://github.com/user-attachments/assets/591c2953-b5fb-4bf2-9e6b-89b565ef19d8)
-
- 
  
 
 
@@ -100,20 +98,21 @@ DMZ traffic to WAN Public IP of Azure
 -	5. Create Firewall Rules (Both Ends) 
 ![image](https://github.com/user-attachments/assets/23db8dcc-48b2-4cb0-850c-e8ff3a3e6457)
  ![image](https://github.com/user-attachments/assets/bae14f8a-0f49-4d20-8307-a52ccb537479)
-
- 
+![image](https://github.com/user-attachments/assets/f47fe360-146c-42ed-bb94-c15f343fd03e)
  
 
 Azure Side
-
- 
- 
- 
- 
+![image](https://github.com/user-attachments/assets/cfd0ae3d-176e-4d4a-87bf-755b2347a633)
+![image](https://github.com/user-attachments/assets/f8bb35b8-99c0-460b-9e57-aa0ed2a58a09)
+![image](https://github.com/user-attachments/assets/99100992-46d4-40f1-b3d2-fda20f3b30ac)
+![image](https://github.com/user-attachments/assets/12bfcb21-682d-4eac-b630-cd0487d0dc67)
 
 Enable Ping and DNS under VPN zone for Device Access (Both Ends)
+![image](https://github.com/user-attachments/assets/b80d243c-23ed-48e8-9ee9-363769eeec40)
  
 -	6. Test the connection
+![image](https://github.com/user-attachments/assets/4ccfd578-a1b5-40ea-b1a0-080bfa3cdb26)
+![image](https://github.com/user-attachments/assets/a02478ac-16e9-4bc2-9689-8aee574e9df4)
 
  
 
